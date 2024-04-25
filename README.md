@@ -18,7 +18,7 @@ The repository includes class diagrams and header files written in C++ for imple
 
 As part of the Electronic Arts Software Engineering virtual experience program on Forage, a bugfix was implemented for the Sims 4 inventory system. The bugfix addresses an issue where objects removed from the inventory were not fully removed from the item list when their quantity reached 0.
 
-[Read the Bugfix Report](bugfix_report.md)
+[Read the Bugfix Report](Bug_fix)
 
 ## About
 
