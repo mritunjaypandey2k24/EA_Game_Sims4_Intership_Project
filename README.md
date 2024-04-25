@@ -22,7 +22,13 @@ As part of the Electronic Arts Software Engineering virtual experience program o
 
 ## About
 
-This repository was created as part of the Electronic Arts Software Engineering virtual experience program on Forage in April 2024. It demonstrates proficiency in proposing new features, designing class diagrams, implementing header files, and patching bugs in software development projects.
+## Electronic Arts Software Engineering Virtual Experience
+As part of the Electronic Arts Software Engineering virtual experience program on Forage in April 2024, the following tasks were completed:
+- Proposed a new feature enhancement for The Sims 4.
+- Built a class diagram and created header files with class definitions.
+- Patched a bugfix and optimized the Sims 4 codebase by implementing an improved data structure.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, please contact [mritunjaypandey2k24].
 
