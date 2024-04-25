@@ -24,5 +24,5 @@ As part of the Electronic Arts Software Engineering virtual experience program o
 
 This repository was created as part of the Electronic Arts Software Engineering virtual experience program on Forage in April 2024. It demonstrates proficiency in proposing new features, designing class diagrams, implementing header files, and patching bugs in software development projects.
 
-For any inquiries or feedback, please contact [your email address or GitHub username].
+For any inquiries or feedback, please contact [mritunjaypandey2k24].
 
